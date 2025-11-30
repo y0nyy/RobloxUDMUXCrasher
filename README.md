@@ -19,8 +19,8 @@ This project is intended for educational and ethical penetration testing purpose
 
 ### Prerequisites
 
-- Roblox Studio installed.
-- Basic knowledge of Lua scripting.
+- NodeJS & Roblox Installed.
+- Basic knowledge of DDOS Attacks & Networking.
 - Access to a Roblox test environment or a private server.
 
 ### Installation
@@ -29,7 +29,7 @@ This project is intended for educational and ethical penetration testing purpose
     ```bash
     git clone https://github.com/y0nyy/RobloxUDMUXCrasher.git
     ```
-2. Have NodeJS installed
+2. Modify files
 
 ### Usage
 
